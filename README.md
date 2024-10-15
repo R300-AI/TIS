@@ -1,7 +1,7 @@
 # TIS
 
 ## Installation
-1. Install Gstreamer and Tcam-capture for access TIS camera.
+1. Download Tcam-capture from [HERE](https://www.theimagingsource.com/zh-hant-tw/product/software/tiscamera/) and install it.
   ```
   sudo apt update
   sudo apt upgrade
