@@ -22,3 +22,8 @@
   ```
   tcam-capture
   ```
+
+## Usage
+```
+python demo.py
+```
