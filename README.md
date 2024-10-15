@@ -10,3 +10,7 @@
   sudo apt install libcairo2-dev libxt-dev libgirepository1.0-dev
   sudo dpkg -i <tiscamera_driver>.deb
   ```
+2. Verify the connection and adjusting the camera configuration
+  ```
+  tcam-capture
+  ```
