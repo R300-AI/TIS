@@ -1,5 +1,8 @@
 # TIS
 
+## Requirement
+* **OS**: Ubuntu
+
 ## Installation
 #### Step1. Install Gstreamer with the following command or the method specified by the system.
   ```bash
