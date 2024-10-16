@@ -3,6 +3,10 @@
 ## Requirement
 * **OS**: Ubuntu
 
+## Pre-built Resources
+* [Camera Driver for Arm64 CPU](https://yjec.blob.core.windows.net/download/tiscamera_1.1.0.4139_arm64_ubuntu_1804.deb)
+* [Camera Driver for for x86_64 CPU](https://yjec.blob.core.windows.net/download/tiscamera_1.1.0.4139_amd64_ubuntu_1804.deb)
+
 ## Installation
 #### Step1. Install Gstreamer with the following command or the method specified by the system.
   ```bash
