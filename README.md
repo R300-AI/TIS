@@ -1,6 +1,6 @@
 # TIS
 
-## Requirement
+## Compatible System
 * **OS**: Ubuntu
 
 ## Pre-built Resources
