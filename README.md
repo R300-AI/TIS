@@ -1,7 +1,7 @@
 # TIS
 
 ## Compatible System
-* **OS**: Ubuntu
+* **OS**: Ubuntu/ Raspbian
 
 ## Pre-built Resources
 * [Camera Driver for Arm64 CPU](https://yjec.blob.core.windows.net/download/tiscamera_1.1.0.4139_arm64_ubuntu_1804.deb)
